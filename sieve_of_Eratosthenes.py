@@ -1,3 +1,5 @@
+#sieve of Eratosthenes
+
 n = int(input("вывод простых чисел до"))
 a = [0] * n
 b = []
